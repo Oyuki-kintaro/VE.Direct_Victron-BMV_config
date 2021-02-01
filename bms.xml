@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- enter decimal values without '.' ex: 1.05 => 105 -->
+<!-- add '0' behind percent values  ex: 4% => 40 -->
+<data>
+    <setting>
+        <item name="Battery Capacity" value="0x1000">100</item>
+		<item name="Charged Voltage" value="0x1001">281</item>
+		<item name="Tail Current" value="0x1002">20</item>
+		<item name="Charged Detection Time" value="0x1003">3</item>
+		<item name="Charge Efficiency" value="0x1004">99</item>
+		<item name="Peukart Coefficient" value="0x1005">105</item>
+		<item name="Current Threshold" value="0x1006">10</item>
+		<item name="TTG Delta T" value="0x1007">3</item>
+		<item name="Discharge Floor" value="0x1008">200</item>
+		<item name="Relay Low Soc Clear" value="0x1009">250</item>
+		<item name="Alarm Low Voltage" value="0x0320">250</item>
+		<item name="Alarm Low Voltage Clear" value="0x0321">265</item>
+		<item name="Alarm High Voltage" value="0x0322">292</item>
+		<item name="Alarm High Voltage Clear" value="0x0323">284</item>
+		<item name="Alarm Low SOC" value="0x0328">250</item>
+		<item name="Alarm Low SOC Clear" value="0x0329">300</item>
+		<item name="Relay Mode" value="0x034F">0</item>
+		<item name="Relay Low Voltage" value="0x0350">250</item>
+		<item name="Relay Low Voltage Clear" value="0x0351">265</item>
+		<item name="Relay High Voltage" value="0x0352">292</item>
+		<item name="Relay High Voltage Clear" value="0x0353">284</item>
+    </setting>
+</data>
