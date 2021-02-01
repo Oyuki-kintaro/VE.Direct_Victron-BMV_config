@@ -3,7 +3,7 @@
 Script developed on bmv-712 smart
 
 ****Please read hex protocol pdf****
-pdf file contains information on command flags and hex id's used when sending messages to the bmv
+\npdf file contains information on command flags and hex id's used when sending messages to the bmv
 
 To run file open a terminal and enter "python config_battery_monitor.py bms.xml"
 
